@@ -44,7 +44,7 @@
 	// "shutdownAction": "none",
 
 	// Uncomment the next line to run commands after the container is created - for example installing curl.
-	"postCreateCommand": "gem install solargraph:0.38.0 solargraph-rails:1.1.0"
+	"postCreateCommand": "gem install solargraph:0.48.0 solargraph-rails:1.1.0"
 
 	// Uncomment to connect as a non-root user if you've added one. See https://aka.ms/vscode-remote/containers/non-root.
 	// "remoteUser": "vscode"
